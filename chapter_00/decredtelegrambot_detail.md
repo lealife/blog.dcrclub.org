@@ -1,6 +1,7 @@
 #Decred信息助手参数说明
-关于telegram Decred中文群中的Decred信息助手
-[源码下载](https://github.com/0x5826/decred_cn_bot)
+telegram Decred中文群中的Decred信息助手可以在[Decred DCR 中文](https://t.me/decred_cn)telegram群聊天窗口中输入`dcrinfo`来获取相关Decred网络信息。
+
+源码：[源码下载](https://github.com/0x5826/decred_cn_bot)
 
 Decred信息助手主要通过在线查询其他站点提供的公共数据做整合处理，这里主要依赖的两个数据源为：dcrstats.com和explorer.dcrdata.org。
 ##各个显示参数的含义解释：

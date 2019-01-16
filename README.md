@@ -1,14 +1,14 @@
 # Decred 中文社区文章
 
-###关于我们
+### 关于我们
 我们是一群热爱Decred理念的社区成员，我们自发的组织了一个小小的社群，我们正在为Decred贡献自己的力量。
 
-###我们社区骨干
-@GuangGuang @Lihkg441 @cryptohugo @v998n<br/>
-@Neil Nie   @GuangGuang @Lihkg441   @cryptohugo<br/>
-@v998n  @Neil Nie   @nolllazer @TogT4V
+### 我们社区骨干
+  @GuangGuang @Lihkg441 @cryptohugo @v998n<br/>
+  @Neil Nie   @GuangGuang @Lihkg441   @cryptohugo<br/>
+  @v998n  @Neil Nie   @nolllazer @TogT4V
 
-###相关链接
+### 相关链接
 [Decred 区块浏览器1](https://mainnet.decred.org)<br/>
 [Decred 区块浏览器2](https://explorer.dcrdata.org) 【推荐】<br/>
 [Decred 源码仓库](https://github.com/decred)<br/>
@@ -20,4 +20,3 @@
 [Decred DCR 中文频道](https://t.me/decred_cn) （Telegram）
 
 以上站点均保证安全可靠请放心使用。
-

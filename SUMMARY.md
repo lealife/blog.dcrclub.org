@@ -2,6 +2,8 @@
 * [简介](README.md)
     * [如何参与Decred社区](chapter_00/How_to_Get_Hired_as_a_Decred_Contractor_CN.md)
     * [Decred 货币供应说明](chapter_00/decred_supply.md)
+    * [Decred 168w的预挖分配](chapter_00/decred_premine_distribution.md)
+    * [Decred信息助手参数说明](chapter_00/decredtelegrambot_detail.md)
 * [钱包与交易](chapter_01/README.md)
     * [钱包介绍]()
         * [官方钱包]()

@@ -7,6 +7,7 @@
 * [钱包与交易](chapter_01/README.md)
     * [钱包介绍]()
         * [官方钱包]()
+        	* [SPV介绍](chapter_01/dcrdocs_Wallets_SPV_CN.md)
         * [第三方钱包]()
     * [交易平台]()
 * [挖矿与投票](chapter_02/README.md)
@@ -21,4 +22,5 @@
 * [第三方测评](chapter_05/README.md)
 * [社区文章](chapter_06/README.md)
     * [Decred如何迭代比特币](chapter_06/how-Decred-iterates-upon-Bitcoin.md)
+    * [在Politeia的公关提案：过程，发展及提案](chapter_06/PR_in_Politeia_Process_Progress_and_Pitching_In_CN.md)
     * [再评：标准共识对Decred 测评](chapter_06/analysis-Standard_Consensus.md)

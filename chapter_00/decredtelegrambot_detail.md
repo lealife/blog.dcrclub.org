@@ -71,5 +71,5 @@ Decred信息助手主要通过在线查询其他站点提供的公共数据做�
   基金余额: 0.6052M
   `【解释】：基金会账户地址的剩余币数`
   
-  Decred基金账户地址：`Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx`
+补充：Decred基金账户地址：`Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx`
   

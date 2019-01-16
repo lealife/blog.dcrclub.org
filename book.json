@@ -1,0 +1,46 @@
+{
+  "bookname": "DCR_CN_articles",
+  "title" : "Decred中文社区文章",
+  "author" : "Decred_CN",
+  "description" : "Decred 项目中文社区资料网站",
+  "language" : "zh-hans",
+  "catalog": "all",
+  "plugins" : ["favicon","search-plus","-sharing", "sharing-plus","sitemap-general"],
+  "pluginsConfig": {
+        "sharing": {
+            "douban": false,
+            "facebook": true,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": true,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo"
+            ]
+        },
+        "favicon": {
+            "shortcut": "assets/images/favicon.ico",
+            "bookmark": "assets/images/favicon.ico",
+            "appleTouch": "assets/images/favicon-16x16.png",
+            "appleTouchMore": {
+                "16x16": "assets/images/favicon-16x16.png",
+                "48x48": "assets/images/favicon-32x32.png"
+            }
+        },
+        "sitemap-general": {
+            "prefix": "http://blog.dcrclub.org/"
+        }
+    }
+}

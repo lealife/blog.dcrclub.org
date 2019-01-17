@@ -164,11 +164,11 @@ Politeia有了个非常好的开始。讨论的质量和流程的演变，提案
 我对当前的Decred状态，事情的发展方向以及我们社区团结起来展示一种利益相关者拥有主权的新型货币的能力感到非常兴奋。它提供的功能将在未来几个月和几年内继续被构思，开发和释放。加入我们，帮助设计和实现这些想法。
 
 ## 关于作者 
-原文 Dustin leFebvre 著：[https://medium.com/decred/pr-in-politeia-process-progress-and-pitching-in-d88771183dd4](https://medium.com/decred/pr-in-politeia-process-progress-and-pitching-in-d88771183dd4)</br>
+原文 Dustin leFebvre 著：[https://medium.com/decred/pr-in-politeia-process-progress-and-pitching-in-d88771183dd4](https://medium.com/decred/pr-in-politeia-process-progress-and-pitching-in-d88771183dd4)<br/>
 
-翻译 ：@Guang </br>
-[Medium](https://medium.com/@guang.dcr)</br>
-Telegram: @GuangGuang</br>
+翻译 ：@Guang <br/>
+[Medium](https://medium.com/@guang.dcr)<br/>
+Telegram: @GuangGuang<br/>
 Matrix: @guang:decred.org
 
 欢迎反馈至[Github](https://github.com/Guang168)或联系作者

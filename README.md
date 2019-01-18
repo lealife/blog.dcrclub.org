@@ -14,8 +14,8 @@
 
 
 ### 相关链接
-[Decred 区块浏览器1](https://mainnet.decred.org)<br/>
-[Decred 区块浏览器2](https://explorer.dcrdata.org) 【推荐】<br/>
+[Decred 区块浏览器1](https://explorer.dcrdata.org) 【推荐】<br/>
+[Decred 区块浏览器2](https://mainnet.decred.org)<br/>
 [Decred 源码仓库](https://github.com/decred)<br/>
 [Decrediton 钱包下载](https://github.com/decred/decred-binaries/releases)【官方github】<br/>
 [Decrediton 钱包下载](https://www.decred.org/downloads)【官方网站】<br/>

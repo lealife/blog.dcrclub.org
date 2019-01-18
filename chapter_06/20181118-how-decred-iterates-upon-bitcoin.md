@@ -32,7 +32,7 @@
 
 我们可以使用所描述的实体来创建一个治理纯PoW加密货币（例如比特币）的权力动态图。下图显示了处于平衡状态PoW网络的模式。没有一个实体具有完全的控制权，任何一方被删除都会改变网络的价值定位。在平衡状态时，这个模式运行良好。
 
-![这模式受到了 Nic Carter 的 tripartite model 及 Jimmy Song 关于 UASF BIP148 的文章 启发。](img/Blockchain-governance:-how-Decred-iterates-upon-Bitcoin/CN-equilibrium-pow-network.png)
+![这模式受到了 Nic Carter 的 tripartite model 及 Jimmy Song 关于 UASF BIP148 的文章 启发。](img/20181118-how-decred-iterates-upon-bitcoin/CN-equilibrium-pow-network.png)
 ***图:*** *这模式受到了 Nic Carter 的 tripartite model 及 Jimmy Song 关于 UASF BIP148 的文章 启发。*
 
 
@@ -49,7 +49,7 @@
 6. 由于没有办法正式确定协议决策，唯一的选择是通过公开市场的仲裁解决。
 7. 经济节点必须更新其软件并适应新的现状。在持续的链分叉的情况下，他们必须决定是否对加密货币的新分支支持。
 
-![有争议的纯PoW网络模式](img/Blockchain-governance:-how-Decred-iterates-upon-Bitcoin/CN-contentious-pow-network.png)
+![有争议的纯PoW网络模式](img/20181118-how-decred-iterates-upon-bitcoin/CN-contentious-pow-network.png)
 ***图:*** *有争议的纯PoW网络模式*
 
 通过以上模式可以观察出：
@@ -61,7 +61,7 @@
 
 由于PoW网络没有正式的机制来解决协议争议，因此共识失败很可能会出现。正如引言中所定义的，共识失败将导致链分裂，一般也导致区块链重组。这可能意味着加密货币最重要的特征之一，交易最终性的丧失。
 
-![对纯PoW区块链重组的描述，在Fork B区块中挖掘的所有交易都将反转](img/Blockchain-governance:-how-Decred-iterates-upon-Bitcoin/CN-Reversed-blockchain-reorg.png)
+![对纯PoW区块链重组的描述，在Fork B区块中挖掘的所有交易都将反转](img/20181118-how-decred-iterates-upon-bitcoin/CN-Reversed-blockchain-reorg.png)
 ***图:*** *对纯PoW区块链重组的描述，在Fork B区块中挖掘的所有交易都将反转*
 
 一般情况下，确认的次数越多，人们对交易的持久性越有信心。然而，在共识失败期间，任何确认数量都是不安全的。交易进行的分支必须赢得并进行重组。由于损失的风险的增加，在共识失败期间发送交易是危险的。
@@ -77,7 +77,7 @@ Jimmy Song在他关于[UASF BIP148场景和博弈论](https://medium.com/@jimmys
 ### 检阅Decred基于PoW/PoS混合的治理机制
 Decred以几种方式迭代纯PoW网络。最重要的是，它引入了权益节点，为用户提供了一种权衡协议决策的途径。除了改进区块链治理，混合模式还增强了网络的安全性。
 
-![权益节点的作用是保持矿工的合规性，并为做决策提供一个安全的途径](img/Blockchain-governance:-how-Decred-iterates-upon-Bitcoin/CN-Decred-hybrid-power-structure.png)
+![权益节点的作用是保持矿工的合规性，并为做决策提供一个安全的途径](img/20181118-how-decred-iterates-upon-bitcoin/CN-Decred-hybrid-power-structure.png)
 ***图:*** *权益节点的作用是保持矿工的合规性，并为做决策提供一个安全的途径*
 
 和纯PoW网络中一样，PoW矿工提供计算能力来寻找区块。但是，它们生成的每个区块都需要由PoS节点进行检查。这意味着未经利益相关方明确的批准，PoW矿工无法延长区块链。用户可以成为利益相关者，通过锁定他们的DCR换取[选票](https://docs.decred.org/mining/proof-of-stake/)，正式参与协议的保护和发展。
@@ -88,7 +88,7 @@ Decred以几种方式迭代纯PoW网络。最重要的是，它引入了权益�
 
 Decred的混合机制协议激励用户成为利益相关者并确保矿工保持合规。在哈希算力被分割的情况下，矿工不能故意或意外地导致区块链分裂，因为他们将无法在未批准的区块之上构建（见下图）。
 
-![由于缺乏利益相关者的支持，矿工不能延长少数分叉链](img/Blockchain-governance:-how-Decred-iterates-upon-Bitcoin/CN-Decred-Blockchain-reorg.png)
+![由于缺乏利益相关者的支持，矿工不能延长少数分叉链](img/20181118-how-decred-iterates-upon-bitcoin/CN-Decred-Blockchain-reorg.png)
 ***图：*** *由于缺乏利益相关者的支持，矿工不能延长少数分叉链*
 
 值得注意的是，影响纯PoW区块链的问题理论上可以在Decred中出现。但是，它的混合机制协议被设计成对它们具有高度的抵抗力。在Dave Collins的Reddit[帖子](https://www.reddit.com/r/decred/comments/7f9ie1/detailed_analysis_of_decred_fork_resistance/)中可以找到对Decred的分叉抵抗性的一个很好的解释。

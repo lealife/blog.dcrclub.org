@@ -34,13 +34,13 @@
 
 * 票池通过调整票价控制总选票数量。目标设立在40，960张，选票被选中投出的时间符合泊松概率分布，投票时间为：1-142天；平均投票时间为28天，28天内被选中的概率是50%；最长142天投出去；还有0.5%的概率票会过期。而目前(11月23日)票池数量是41，297张，所以票价为105.41DCR。47.1%的DCR被锁定。
 
-![POSCHART](img/analysis-Standard_Consensus/POSCHART.png)
+![POSCHART](img/20181124-analysis-standard-consensus/POSCHART.png)
 
 *锁定票数及DCR数稳定上涨。表示持币者对项目的信心稳定。*
 
 * 从Github代码方面，评级指出了多个明显Decred项目比其他项目优秀的重要指标，包括更新频繁度，结构模块划分，甚至代码注释清晰。这些都可以突显DCR开发人员能力的重要指标。
 
-![DevSnapshot](img/analysis-Standard_Consensus/DCRDevSnapshot.png)
+![DevSnapshot](img/20181124-analysis-standard-consensus/DCRDevSnapshot.png)
 
 *DCR Dev Snapshot 显示10月份中Decred代码库的活跃程度。*      
 

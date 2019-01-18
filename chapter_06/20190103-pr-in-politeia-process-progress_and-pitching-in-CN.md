@@ -1,7 +1,7 @@
 # PR in Politeia: Process, Progress, and Pitching In 
 # 在Politeia的公关提案：过程，发展及提案
 
-![Photo by [SpaceX](https://unsplash.com/@spacex?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)](img/PR_in_Politeia_Process_Progress_and_Pitching_In_CN/Img1.png)
+![Photo by [SpaceX](https://unsplash.com/@spacex?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)](img/20190103-pr-in-politeia-process-progress_and-pitching-in-CN/Img1.png)
 *[SpaceX](https://unsplash.com/@spacex?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral) 的照片*
 
 

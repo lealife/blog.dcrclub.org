@@ -24,3 +24,4 @@
     * [Decred如何迭代比特币](chapter_06/how-Decred-iterates-upon-Bitcoin.md)
     * [在Politeia的公关提案：过程，发展及提案](chapter_06/PR_in_Politeia_Process_Progress_and_Pitching_In_CN.md)
     * [再评：标准共识对Decred 测评](chapter_06/analysis-Standard_Consensus.md)
+    * [Decred(DCR)的价值存储(SoV)](chapter_06/SoV_of_DCR.md)

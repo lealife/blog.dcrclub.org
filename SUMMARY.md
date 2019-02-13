@@ -11,7 +11,7 @@
         * [第三方钱包]()
     * [交易平台](chapter_01/exchange_list.md)
 * [挖矿与投票](chapter_02/README.md)
-    * [挖矿POW](chapter_02/mine_with_pool.md)
+    * [挖矿POW](chapter_02/POW_with_pool.md)
     * [投票POS]()
         * [投票分票](chapter_02/Voting-DecredSplitTicket.md)
 * [项目月报](chapter_03/README.md)

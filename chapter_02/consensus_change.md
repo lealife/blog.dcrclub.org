@@ -18,3 +18,4 @@
 
 以下是共识升级单个议案的整个周期的图示：
 ![consensus_change](img/consensus_change.png)
+

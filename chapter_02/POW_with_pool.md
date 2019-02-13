@@ -8,7 +8,7 @@ uupool.com(双优)  [DCR挖矿教程（Claymore、ASIC）](https://uupool.cn/cou
 
 
 
-### 收集整理者 
-中文社区 @Dante
+
+######收集整理自 中文社区 @Dante
  
  

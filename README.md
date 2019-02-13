@@ -21,7 +21,6 @@
 [Decrediton 钱包下载](https://www.decred.org/downloads)【官方网站】<br/>
 [Decred 网络状态](https://dcred.eu/home)【第三方网站】<br/>
 [Decred 共识变更进度](https://voting.decred.org)【官方网站】<br/>
-
 [Decred DCR 英文频道](https://t.me/Decred) （Telegram）<br/>
 [Decred DCR 中文频道](https://t.me/decred_cn) （Telegram）
 

@@ -19,3 +19,4 @@
 以下是共识升级单个议案的整个周期的图示：
 ![consensus_change](img/consensus_change.png)
 
+######文章来源[简要介绍链上共识投票如何工作及流程​](https://www.dcr66.com/threads/61/)

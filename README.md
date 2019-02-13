@@ -19,6 +19,7 @@
 [Decred 项目源码仓库](https://github.com/decred)<br/>
 [Decrediton 钱包下载](https://github.com/decred/decred-binaries/releases)【官方github】<br/>
 [Decrediton 钱包下载](https://www.decred.org/downloads)【官方网站】<br/>
+[Decred 投票服务商(POS矿池)](https://www.decred.org/vsp/)【官方网站】<br/>
 [Decred 网络状态](https://dcred.eu/home)【第三方网站】<br/>
 [Decred 共识变更进度](https://voting.decred.org)【官方网站】<br/>
 [Decred DCR 英文频道](https://t.me/Decred) （Telegram）<br/>

@@ -14,6 +14,7 @@
     * [挖矿POW](chapter_02/POW_with_pool.md)
     * [投票POS]()
         * [投票分票](chapter_02/Voting-DecredSplitTicket.md)
+    * [链上共识变更流程​](chapter_02/consensus_change.md)
 * [项目月报](chapter_03/README.md)
     * [Decred月报 - 2018 11月](chapter_03/201811_DecredJournalCN.md)
     * [Decred月报 - 2018 12月](chapter_03/201812_DecredJournalCN.md)

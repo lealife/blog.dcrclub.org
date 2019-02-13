@@ -8,7 +8,7 @@
 | Bittrex | DCR/BTC | DCR/USDT |  |  |
 | Huobi | DCR/BTC | DCR/ETH | DCR/USDT |  |
 | Polonix | DCR/BTC |  |  |  |
-| OKEx | DCR/USDT | DCR/BTC | DCR/ETH | DCR/OKB |
+| OKEx | DCR/BTC | DCR/USDT | DCR/ETH | DCR/OKB |
 | Gate.io | DCR/BTC | DCR/USDT |  |  |
 | Upbit | DCR/BTC | DCR/USDT | DCR/KRW |  |
 | Kucoin | DCR/BTC | DCR/ETH |  |  |

@@ -8,7 +8,7 @@
     * [钱包介绍]()
         * [官方钱包]()
         	* [SPV介绍](chapter_01/dcrdocs_Wallets_SPV_CN.md)
-        * [第三方钱包]()
+        * [第三方钱包](chapter_01/the_third_wallet.md)
     * [交易平台](chapter_01/exchange_list.md)
 * [挖矿与投票](chapter_02/README.md)
     * [挖矿POW](chapter_02/POW_with_pool.md)

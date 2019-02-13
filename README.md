@@ -15,12 +15,13 @@
 
 ### 相关链接
 [Decred 区块浏览器1](https://explorer.dcrdata.org) 【推荐】<br/>
-[Decred 区块浏览器2](https://mainnet.decred.org)<br/>
-[Decred 源码仓库](https://github.com/decred)<br/>
+[Decred 区块浏览器2](https://beta.dcrdata.org)【dcrdata的beta版】<br/>
+[Decred 项目源码仓库](https://github.com/decred)<br/>
 [Decrediton 钱包下载](https://github.com/decred/decred-binaries/releases)【官方github】<br/>
 [Decrediton 钱包下载](https://www.decred.org/downloads)【官方网站】<br/>
-[Decred 货币排行榜](https://www.dcr.observer/)【第三方网站】<br/>
 [Decred 网络状态](https://dcred.eu/home)【第三方网站】<br/>
+[Decred 共识变更进度](https://voting.decred.org)【官方网站】<br/>
+
 [Decred DCR 英文频道](https://t.me/Decred) （Telegram）<br/>
 [Decred DCR 中文频道](https://t.me/decred_cn) （Telegram）
 

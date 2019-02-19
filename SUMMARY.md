@@ -18,6 +18,7 @@
 * [项目月报](chapter_03/README.md)
     * [Decred月报 - 2018 11月](chapter_03/201811_DecredJournalCN.md)
     * [Decred月报 - 2018 12月](chapter_03/201812_DecredJournalCN.md)
+    * [Decred月报 - 2019 1月](chapter_03/201901_DecredJournalCN.md)
 * [提案系统](chapter_04/README.md)
     * [提案:Decred 承包商的管理体制](chapter_04/Proposals— DecredContractorClearanceProcess.md)
 * [第三方测评](chapter_05/README.md)

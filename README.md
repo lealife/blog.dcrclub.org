@@ -1,15 +1,13 @@
-<p align="right">
-  <img width="100" height="100" src="assets/images/transparent background - vertical - positive - full color@2x.png">
-</p> 
 #Decred 中文社区文章
 
-### 关于我们
+### 关于我们 
+
 我们是一群热爱Decred理念的社区成员，我们自发的组织了一个小小的社群，我们正在为Decred贡献自己的力量。
 
-###我们的微博
+### 我们的微博
 [DecredProject中文社区](https://weibo.cn/6824123103)
 
-###我们的Telegram群组
+### 我们的Telegram群组
 [Decred DCR 中文频道](https://t.me/decred_cn) 
 
 ### 相关链接

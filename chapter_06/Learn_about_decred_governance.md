@@ -37,6 +37,7 @@ DCR从来没有付过一分钱上币费（币安，火币都是主动上币）�
 
 可以说politeia的自我过滤能力非常出众，想来骗钱的只能白白浪费提议费。
 最近这个通过的提议我觉得非常有价值：
+
 ![Learn_about_decred_governance](img/Learn_about_decred_governance/6.jpg)
 
 这个是基于DCR的漏洞赏金计划。这个和以太的https://bounty.ethereum.org/ 赏金计划非常类似。直接高票通过。提议者还列出了完整的解决漏洞流程以及漏洞危险程度评级。这种提议算是把项目基金用到了刀刃上。

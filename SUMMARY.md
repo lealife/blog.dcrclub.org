@@ -26,3 +26,4 @@
     * [在Politeia的公关提案：过程，发展及提案](chapter_06/PR_in_Politeia_Process_Progress_and_Pitching_In_CN.md)
     * [再评：标准共识对Decred 测评](chapter_06/analysis-Standard_Consensus.md)
     * [Decred(DCR)的价值存储(SoV)](chapter_06/SoV_of_DCR.md)
+    * [DCR的链上治理了解一下](chapter_06/Learn_about_decred_governance.md)

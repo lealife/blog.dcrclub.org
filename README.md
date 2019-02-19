@@ -5,7 +5,7 @@
 我们是一群热爱Decred理念的社区成员，我们自发的组织了一个小小的社群，我们正在为Decred贡献自己的力量。
 
 ### 我们的微博
-[DecredProject中文社区](https://weibo.cn/6824123103)
+[DecredProject中文社区](https://weibo.com/DecredProject)
 
 ### 我们的Telegram群组
 [Decred DCR 中文频道](https://t.me/decred_cn) 

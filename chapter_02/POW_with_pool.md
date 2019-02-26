@@ -7,7 +7,7 @@ poolin.com(币印)  [德信币DCR挖矿教程](https://help.poolin.com/hc/zh-cn/
 uupool.com(双优)  [DCR挖矿教程（Claymore、ASIC）](https://uupool.cn/course#DCR) <br/>
 okex.com(okex矿池) [DCR 挖矿教程](https://support.okex.com/hc/zh-cn/articles/360023916552-DCR-%E6%8C%96%E7%9F%BF%E6%95%99%E7%A8%8B)
 
-###矿池对应挖矿地址
+###矿池对应挖矿奖励地址
 | 矿池名称 | 挖矿奖励地址 |
 | --- | --- |
 | uupool(双优矿池) | DsiDegkW7HxidcUCNpRqpgskc9JFCkqwWeu |

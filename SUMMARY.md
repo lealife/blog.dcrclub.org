@@ -1,6 +1,6 @@
 # Summary
 * [简介](README.md)
-    * [指引-如何加入Matrix上的中文聊天室](hapter_00/decred_matrixguide.md)
+    * [指引-如何加入Matrix上的中文聊天室](chapter_00/decred_matrixguide.md)
     * [如何参与Decred社区](chapter_00/How_to_Get_Hired_as_a_Decred_Contractor_CN.md)
     * [Decred 货币供应说明](chapter_00/decred_supply.md)
     * [Decred 168w的预挖分配](chapter_00/decred_premine_distribution.md)
